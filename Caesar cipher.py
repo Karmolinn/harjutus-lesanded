@@ -1,5 +1,5 @@
 plaintext = input('sisestage sõnum ')
-alphabet = "ABCDEFGHIJKLMNOPQRSŠZŽTUVWÕÄÖÜXY"
+alphabet = "abcdefghijklmnopqrsšzžtuvwõäöüxy"
 key = 1
 cipher = ''
 
